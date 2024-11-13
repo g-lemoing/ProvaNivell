@@ -1,4 +1,4 @@
 package enumclasses;
 
-public enum GarnmentType {
+public enum GarnmentType {Tops, Pantalones, RopaInterior
 }

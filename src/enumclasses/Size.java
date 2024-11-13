@@ -1,4 +1,4 @@
 package enumclasses;
 
-public enum Size {
+public enum Size {XS, S, M, L, XL, XXL
 }
